@@ -1,0 +1,85 @@
+body {
+    font-family: League spartan;
+    margin: 0;
+}
+.head {
+    display: flex;
+
+}
+.head nav {
+    display: flex;
+    background-image: url(images/desktop-image-hero-2.jpg);
+    height: 535px;
+    width: 840px;
+}
+.nav-section ul {
+    color: white;
+    font-weight: bold;
+    margin-top: 4em;
+    margin-left: 1em;
+}
+.nav-section p {
+    color: white;
+    font-weight: bold;
+    margin-top: 55px;
+    margin-left: 1.5em;
+    font-size: 2rem;
+}
+.head ul {
+    display: flex;
+    list-style: none;
+    gap: 2.5em;
+}
+.top-right-side {
+    margin: 5em 10em;
+    margin-left: 19em;
+    
+}
+.top-right-side h1 {
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+.top-right-side p {
+    font-size: 1.2rem;
+}
+.shop-now {
+    display: flex;
+    gap: 2em;
+}
+.arrows {
+    display: flex;
+    margin-top: 2.9em;
+    margin-left: -19em;
+}
+.left-arrow {
+    background-color: black;
+    height: 7em;
+    width: 7em;
+}
+.right-arrow {
+    background-color: black;
+    height: 7em;
+    width: 7em;
+}
+.arrows img {
+    margin: 45px 45px;
+}
+.bottom-side {
+    display: flex;
+    margin-top: -5em;
+}
+.bottom-side img {
+    height: 274px;
+}
+.about-info {
+    width: 60em;
+    margin-left: 11em;
+    margin-top: 4em;
+}
+.about-info h2 {
+    font-weight: 900 bold;
+}
+.about-info p {
+    font-size: 1.2rem;
+}
+

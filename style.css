@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: league spartan;
+    
+}
+header {
+    display: flex;
+    height: 500px;
+}
+
+.top-side {
+    display: flex;
+    background-image: url(images/desktop-image-hero-3.jpg);
+    width: 50%;
+}
+
+.room {
+    font-weight: bold;
+    font-size: 1.7rem;
+    color: white;
+    margin-top: 1.5em;
+    position: relative;
+    margin-left: 1.5em;
+}
+ul {
+    display: flex;
+    gap: 2em;
+    list-style: none;
+    color: white; 
+    font-size: 1.2rem;
+    text-transform: lowercase;
+    margin-left: 6em;
+    position: absolute;
+    margin-top: -2.5em;
+}
+.top-right-side {
+    width: 30%;
+    align-items: center;
+    margin: 80px 80px;
+    margin-left: 10em;
+    font-size: 1.2rem;
+    
+}
+.icon-image {
+    background-color: black;
+    display: flex;
+    gap: 3em;
+    height: 5em;
+    width: 10em;
+    margin-top: 4.2em;
+    margin-left: -10em;
+}
+.icon-image img {
+    height: 2em;
+    width: 2em;
+    margin: 20px 20px;
+}
+.bottom-side {
+    display: flex;
+    height: 2em;
+}
+.about {
+    font-size: 1.1rem;
+    margin: 70px 80px;
+}
+.shop-now-sub {
+    display: flex;
+    gap: 2em;
+}
+.left-image img {
+    height: 19.25em;
+}
+.right-image img {
+    height: 19.25em;
+}
